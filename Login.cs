@@ -41,39 +41,28 @@ namespace registro_de_notas
             errorProvider1.SetError(contra_textBox, "");
 
 
-            //string cadena = "Data Source=DESKTOP-B8OH59T; initial catalog=RegistroNotas1201; user ID=sa; password=jossy96";
+            // Canectar a la base de datos
 
-            ////SqlConnection _conexion = new SqlConnection("cadena");
+            basedats _base = new baseDatos();
 
-            //bool usuariovalido = false;
-
-            //using (SqlConnection conexion = new SqlConnection(cadena))
-            //{
-            //    string consulta = "SELECT 1 FROM Usuario WHERE Codigo'" + usuario_textBox + "'AND Clave='" + contra_textBox + "';";
-            //    conexion.Open();
-
-            //    using (SqlCommand comando = new SqlCommand(consulta, conexion))
-            //    {
-            //        usuariovalido = Convert .ToBoolean(comando.ExecuteScalar())     ;
-            //    }
-            //}
-
-            //if (usuariovalido)
-            //{
-            //    MessageBox.Show("Bienvenido");
-            //}
-            //else
-            //{
-            //    MessageBox.Show("usuario o contraseña incorecta");
-            //}
-            //    ///baseDatos _base = new baseDatos();
-
+            if(_base.ValidarUsuario(usuario_textBox.Text, contra_textBox.Text))
+            {
 
                 registro formu = new registro();
-             this.Hide();
+                this.Hide();
 
-             formu.Show();
+                formu.Show();
+
+            }
+            else
+            {
+                MessageBox.Show("Usuario o contraseña invalida");
+            }
+
+
             
+
+           
       
 
            
