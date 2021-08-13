@@ -1,0 +1,116 @@
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\registro_de_notas.exe
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\registro_de_notas.pdb
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\EnvDTE.dll
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\stdole.dll
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\obj\Debug\registro_de_notas.csprojAssemblyReference.cache
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\obj\Debug\registro_de_notas.Login.resources
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\obj\Debug\registro_de_notas.Properties.Resources.resources
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\obj\Debug\registro_de_notas.registro.resources
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\obj\Debug\registro_de_notas.csproj.GenerateResource.cache
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\obj\Debug\registro_de_notas.csproj.CoreCompileInputs.cache
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\obj\Debug\registro_de_notas.csproj.CopyComplete
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\obj\Debug\registro_de_notas.exe
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\obj\Debug\registro_de_notas.pdb
+C:\Users\Owner-1\Desktop\c#.net\registro de notas\registro de notas\obj\Debug\registro_de_notas.Estudiantes.resources
+C:\Users\User\Desktop\registro de notas\bin\Debug\registro_de_notas.exe
+C:\Users\User\Desktop\registro de notas\bin\Debug\registro_de_notas.pdb
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\User\Desktop\registro de notas\bin\Debug\EnvDTE.dll
+C:\Users\User\Desktop\registro de notas\bin\Debug\stdole.dll
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\User\Desktop\registro de notas\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\User\Desktop\registro de notas\obj\Debug\registro_de_notas.csprojAssemblyReference.cache
+C:\Users\User\Desktop\registro de notas\obj\Debug\registro_de_notas.Estudiantes.resources
+C:\Users\User\Desktop\registro de notas\obj\Debug\registro_de_notas.Login.resources
+C:\Users\User\Desktop\registro de notas\obj\Debug\registro_de_notas.Properties.Resources.resources
+C:\Users\User\Desktop\registro de notas\obj\Debug\registro_de_notas.registro.resources
+C:\Users\User\Desktop\registro de notas\obj\Debug\registro_de_notas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\registro de notas\obj\Debug\registro_de_notas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\registro de notas\obj\Debug\registro_de_notas.csproj.CopyComplete
+C:\Users\User\Desktop\registro de notas\obj\Debug\registro_de_notas.exe
+C:\Users\User\Desktop\registro de notas\obj\Debug\registro_de_notas.pdb
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\registro_de_notas.exe
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\registro_de_notas.pdb
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\EnvDTE.dll
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\stdole.dll
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\obj\Debug\registro_de_notas.csprojAssemblyReference.cache
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\obj\Debug\registro_de_notas.Estudiantes.resources
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\obj\Debug\registro_de_notas.Login.resources
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\obj\Debug\registro_de_notas.Properties.Resources.resources
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\obj\Debug\registro_de_notas.registro.resources
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\obj\Debug\registro_de_notas.csproj.GenerateResource.cache
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\obj\Debug\registro_de_notas.csproj.CoreCompileInputs.cache
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\obj\Debug\registro_de_notas.csproj.CopyComplete
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\obj\Debug\registro_de_notas.exe
+C:\Users\Owner-1\Desktop\Tareas 2 periodo 2021\l\registro de notas\obj\Debug\registro_de_notas.pdb
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\registro_de_notas.exe
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\registro_de_notas.pdb
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\EnvDTE.dll
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\stdole.dll
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\obj\Debug\registro_de_notas.csprojAssemblyReference.cache
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\obj\Debug\registro_de_notas.Estudiantes.resources
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\obj\Debug\registro_de_notas.Login.resources
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\obj\Debug\registro_de_notas.Properties.Resources.resources
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\obj\Debug\registro_de_notas.registro.resources
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\obj\Debug\registro_de_notas.csproj.GenerateResource.cache
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\obj\Debug\registro_de_notas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\obj\Debug\registro_de_notas.csproj.CopyComplete
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\obj\Debug\registro_de_notas.exe
+C:\Users\User\Documents\AAA.Lenguaje PIII 12 AM\Nueva carpeta\registro de notas\obj\Debug\registro_de_notas.pdb
